@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "finalumaestate"
+  },
+  "targets": {
+    "umaestateproject": {
+      "hosting": {
+        "uma-estates": [
+          "umaestateproject"
+        ]
+      }
+    }
+  }
+}
