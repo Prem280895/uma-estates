@@ -1,0 +1,32 @@
+.price{
+   text-align: center;
+   margin-top: 4%;
+}
+
+.center-content{
+    place-content: center;
+    margin-top: 1%;
+}
+
+.card{
+    border: 0 !important;
+}
+
+.word-spacing{
+    line-height: 35px;
+      word-spacing: 3px;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.reservation-button{
+    background-color: rgb(142, 236, 142);
+    color: black;
+    border-radius: 50px;
+}

@@ -1,0 +1,18 @@
+.price{
+    text-align: center;
+    margin-top: 4%;
+ }
+
+ .center-content{
+    place-content: center;
+    margin-top: 1%;
+}
+
+.card{
+    border: 0 !important;
+}
+
+.word-spacing{
+    line-height: 35px;
+      word-spacing: 4px;
+}

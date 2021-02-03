@@ -11,11 +11,15 @@ import { MatToolbarModule,
   MatProgressSpinnerModule } from '@angular/material';
 import { MDBBootstrapModule } from 'angular-bootstrap-md';
 import { HomeComponent } from './home/home.component';
+import { PriceDetailsComponent } from './price-details/price-details.component';
+import { ReservationsComponent } from './reservations/reservations.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HomeComponent
+    HomeComponent,
+    PriceDetailsComponent,
+    ReservationsComponent
   ],
   imports: [
     BrowserModule,
