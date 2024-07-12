@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Deploy to file base
+
+firebase init  
+
+select : Hosting: Configure and deploy Firebase Hosting sites
+
+? What do you want to use as your public directory? dist/uma-estates
+? Configure as a single-page app (rewrite all urls to /index.html)? Yes
+? Set up automatic builds and deploys with GitHub? No
+? File dist/uma-estates/index.html already exists. Overwrite? No
+
+firebase deploy
