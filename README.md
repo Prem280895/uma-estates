@@ -29,6 +29,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Deploy to file base
 
+ng build --prod
+
 firebase init  
 
 select : Hosting: Configure and deploy Firebase Hosting sites
